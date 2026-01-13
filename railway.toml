@@ -1,0 +1,5 @@
+[build]
+builder = "railpack"
+
+[build.env]
+PYTHON_VERSION = "3.11.8"
